@@ -66,10 +66,5 @@ My experience spans **data analytics, MLOps, LLM fine-tuning, and cloud-based bi
 
 ---
 
-## 🌐 Connect with Me
-📫 **Email:** [koushikambadi.jobs@gmail.com](mailto:koushikambadi.jobs@gmail.com)  
-💼 **LinkedIn:** [www.linkedin.com/in/ambadi-koushik](https://www.linkedin.com/in/ambadi-koushik)
-
----
 
 > “Data tells the story. AI makes it actionable.”
